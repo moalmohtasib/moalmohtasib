@@ -1,29 +1,39 @@
-# مرحباً، أنا محمد المحتسب 👋
-### مطور تجارة إلكترونية ومهندس برمجيات مدعوم بالذكاء الاصطناعي | شريك سلة معتمد (Salla Partner)
+# Hey, I'm Mo Almohtasib 👋
+### Solo founder of [BloxSniper](https://bloxsniper.com) — Roblox analytics SaaS · Launching June 2026
 
-أنا مطور برمجيات متخصص في بناء وتطوير بنى تحتية متكاملة ومنظومة حلول رقمية للتجارة الإلكترونية والمواقع المخصصة. أعتمد بشكل كامل على منهجيات التطوير الحديثة المدفوعة بالذكاء الاصطناعي (AI-First Development)، حيث أركز على بناء وتطوير قوالب مخصصة دون الاعتماد على أدوات البناء التقليدية الثقيلة، مما يضمن كفاءة برمجية وسرعة فائقة في التحميل.
-
----
-
-## 🚀 تواجدي الرقمي وصناعة المحتوى
-إلى جانب التطوير البرمجي، أقوم بصناعة محتوى تعليمي متخصص لمساعدة المطورين وأصحاب الأعمال على بناء وتأمين منصاتهم الرقمية بكفاءة:
-
-* 🎥 **قناة يوتيوب (Mohtasib Media):** [@MohtasibMedia](https://www.youtube.com/@MohtasibMedia)
-* 📸 **حساب إنستغرام:** [@wordpress_mo](https://www.instagram.com/wordpress_mo)
+I build tools that give Roblox developers and investors the data they actually need to make decisions — trend detection, game performance signals, and competitive intel that the platform doesn't surface natively. Based in Jordan 🇯🇴, shipping solo, AI-first dev workflow.
 
 ---
 
-## 📺 أبرز الشروحات والمحتوى التعليمي (Featured Builds & Tutorials)
+## 🎯 What I'm building
 
-قوموا بزيارة منصاتي للاطلاع على نماذج من الشروحات التطبيقية لبناء المتاجر والمنصات الرقمية:
+**BloxSniper** — analytics + intelligence for the Roblox economy.
+- Live game performance tracking and trend signals
+- Discovery tools for emerging titles before they break out
+- Built for indie devs, studios, and Roblox-focused investors
 
-* ⚙️ **إنشاء متجر إلكتروني متكامل:** دليل عملي متكامل لتأسيس متجر رقمي وإضافة خيار الدفع عند الاستلام باستخدام ووردبريس وتكاملات WooCommerce.
-* 📦 **هندسة الاستضافات السحابية:** شرح تفصيلي وعملي لإعداد وشراء استضافات احترافية وربط أسماء النطاقات (DNS) وإدارة الخوادم عبر Hostinger.
-* 🎨 **تحليل قوالب التجارة الإلكترونية:** مراجعة برمجية لأفضل القوالب المحترفة لإنشاء متاجر إلكترونية احترافية لعام 2026 تدعم تجربة مستخدم سريعة وعالية التحويل.
-* 🛡️ **الحماية والأداء:** مراجعة 5 ركائز أساسية وجوهرية يجب معرفتها وإعدادها برمجياً قبل إطلاق ووردبريس في البيئة الإنتاجية (Production).
+🔗 [bloxsniper.com](https://bloxsniper.com) · [Wikidata: Q140291685](https://www.wikidata.org/wiki/Q140291685)
 
 ---
 
-## 🛠️ أدواتي وبيئة عمل الذكاء الاصطناعي (AI Weapons)
-* **AI Editors & Agents:** Cursor | Claude 3.5 Sonnet | Gemini
-* **E-commerce & CMS Frameworks:** Salla CLI Engine | WooCommerce Custom Implementations | Object-Oriented PHP Frameworks
+## 🛠️ Stack & workflow
+
+* **AI-first dev:** Claude Code (Opus 4.7), Cursor, multi-agent pipelines
+* **Frontend / product:** TypeScript, Next.js, custom themes (no heavy page builders)
+* **Backend / data:** Node, scraping + ingestion pipelines, time-series analytics
+* **SEO / growth:** programmatic SEO, schema.org / JSON-LD, Wikidata cross-linking
+
+---
+
+## 📺 Content & community
+
+I share what I learn while shipping — building in public, dev workflows, and SaaS launch playbooks.
+
+* 🎥 YouTube — [@MohtasibMedia](https://www.youtube.com/@MohtasibMedia)
+* 📸 Instagram — [@wordpress_mo](https://www.instagram.com/wordpress_mo)
+
+---
+
+## 💬 Get in touch
+
+Working on something in the Roblox or solo-SaaS space? Open an issue, drop a DM, or reach out via [bloxsniper.com](https://bloxsniper.com).
