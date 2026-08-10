@@ -1,39 +1,31 @@
-# Hey, I'm Mo Almohtasib 👋
-### Solo founder of [BloxSniper](https://bloxsniper.com) — Roblox analytics SaaS · Launching June 2026
+# Mo Almohtasib
 
-I build tools that give Roblox developers and investors the data they actually need to make decisions — trend detection, game performance signals, and competitive intel that the platform doesn't surface natively. Based in Jordan 🇯🇴, shipping solo, AI-first dev workflow.
+Founder and builder at [Clervo](https://github.com/clervo) — outcome infrastructure for AI agents.
 
----
+I’m building infrastructure for agents to discover capabilities, execute real work, route across models and tools, handle paid execution, and return verifiable results through a coherent interface.
 
-## 🎯 What I'm building
+> **Give your agent a task. Get a verified result.**
 
-**BloxSniper** — analytics + intelligence for the Roblox economy.
-- Live game performance tracking and trend signals
-- Discovery tools for emerging titles before they break out
-- Built for indie devs, studios, and Roblox-focused investors
+## Clervo
 
-🔗 [bloxsniper.com](https://bloxsniper.com) · [Wikidata: Q140291685](https://www.wikidata.org/wiki/Q140291685)
+[Clervo](https://github.com/clervo/clervo) is focused on the infrastructure between an agent and the outcome it needs: capability discovery, routing, execution, payments, and verification.
 
----
+Current areas of work include:
 
-## 🛠️ Stack & workflow
+- AI and model routing
+- search and tool execution
+- secure sandbox infrastructure
+- MCP and agent tool ecosystems
+- x402 and agent commerce
+- multi-chain RPC
+- outcome verification and execution evidence
 
-* **AI-first dev:** Claude Code (Opus 4.7), Cursor, multi-agent pipelines
-* **Frontend / product:** TypeScript, Next.js, custom themes (no heavy page builders)
-* **Backend / data:** Node, scraping + ingestion pipelines, time-series analytics
-* **SEO / growth:** programmatic SEO, schema.org / JSON-LD, Wikidata cross-linking
+**Core idea:** Buy outcomes. Not integrations.
 
----
+→ [Explore Clervo on GitHub](https://github.com/clervo/clervo)
 
-## 📺 Content & community
+## What I work on
 
-I share what I learn while shipping — building in public, dev workflows, and SaaS launch playbooks.
+I spend most of my time building and testing AI-agent infrastructure: agent orchestration, provider routing, execution systems, developer tooling, payments, and the reliability layer required to turn a task into a result an agent can actually use.
 
-* 🎥 YouTube — [@MohtasibMedia](https://www.youtube.com/@MohtasibMedia)
-* 📸 Instagram — [@wordpress_mo](https://www.instagram.com/wordpress_mo)
-
----
-
-## 💬 Get in touch
-
-Working on something in the Roblox or solo-SaaS space? Open an issue, drop a DM, or reach out via [bloxsniper.com](https://bloxsniper.com).
+I prefer proof over hype: clear interfaces, observable execution, truthful capability states, and systems that can be tested end to end.
